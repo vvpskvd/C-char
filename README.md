@@ -1,2 +1,4 @@
 # C-char
- C# Stuff About Me.
+    I gonna upload all of my stuff coded in C# here.
+
+    -By Vvpskvd.
